@@ -10,11 +10,15 @@ pandas, matlibplot, scipy.stats, numpy
 ## Resources 
 TWO csv with mouse inforamtiona and the other conating the test results
 
-data\Mouse_metadata.csv
+[data\Mouse_metadata.csv]
 
-data\Study_results.csv
-## output 
-The full file with data frames are located 
-[] 
+[data\Study_results.csv]
 
 ## Data analysis
+The subject data 
+Gender split m/f was 50.7%/49.3%
+Ages range 1-24 months 
+Key Drug regimine focus ('Capomulin', 'Ramicane', 'Infubinol','Ceftamin')
+
+for the key drug Capoumlin and the mouse weight the correlation coefficient is 84 
+and returned a slope of y= .95x + 21.55  
