@@ -8,8 +8,10 @@ Pymaceuticals granted us access to study results for the effectivness of various
 pandas, matlibplot, scipy.stats, numpy
 
 ## Resources 
-TWO csv with mouse inforamtiona and the other conating the test results 
+TWO csv with mouse inforamtiona and the other conating the test results
+
 data\Mouse_metadata.csv
+
 data\Study_results.csv
 ## output 
 The full file with data frames are located 
